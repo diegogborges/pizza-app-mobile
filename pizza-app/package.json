@@ -7,14 +7,10 @@
     "test": "jest"
   },
   "dependencies": {
-    "@mapbox/polyline": "^1.0.0",
     "native-base": "^2.6.1",
     "prop-types": "^15.6.2",
     "react": "16.3.1",
-    "react-native": "^0.54",
-    "react-native-maps": "^0.21.0",
-    "react-native-phone-call": "^1.0.8",
-    "react-native-slideshow": "^1.0.1"
+    "react-native": "^0.54"
   },
   "devDependencies": {
     "babel-jest": "23.2.0",
